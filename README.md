@@ -1,5 +1,4 @@
-viết lại đoạn code dưới cho hoàn chỉnh
-Python Tkinter Code for Restaurant Management System
+
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog, filedialog
 from reportlab.lib.pagesizes import A4
